@@ -1,0 +1,7 @@
+model/Statistics.class
+model/Result.class
+com/mycompany/laba1/Main.class
+view/Error.class
+controller/AppController.class
+model/Model.class
+view/App.class
